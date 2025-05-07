@@ -1,6 +1,6 @@
 # 🏆 CTF Writeups and Tools
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ultron.official.png" alt="Ultron" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2932796" style='border:none;'></iframe>
 
 Welcome to my collection of CTF (Capture The Flag) challenge writeups and custom tools. This repository contains detailed solutions, methodologies, and custom-built tools that I've created while solving various cybersecurity challenges.
 
